@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report>
+    <location city="Barcelona [Barcelona;España]">
+        <interesting>
+            <url description="Predicción">https://www.tiempo.com/barcelona.htm</url>
+        </interesting>
+        <var>
+            <name>Temperatura Mínima</name>
+            <icon>4</icon>
+            <data>
+                <forecast data_sequence="1" value="17"/>
+                <forecast data_sequence="2" value="17"/>
+                <forecast data_sequence="3" value="17"/>
+                <forecast data_sequence="4" value="16"/>
+                <forecast data_sequence="5" value="17"/>
+                <forecast data_sequence="6" value="16"/>
+                <forecast data_sequence="7" value="19"/>
+            </data>
+        </var>
+        <var>
+            <name>Temperatura Máxima</name>
+            <icon>5</icon>
+            <data>
+                <forecast data_sequence="1" value="24"/>
+                <forecast data_sequence="2" value="21"/>
+                <forecast data_sequence="3" value="22"/>
+                <forecast data_sequence="4" value="23"/>
+                <forecast data_sequence="5" value="23"/>
+                <forecast data_sequence="6" value="23"/>
+                <forecast data_sequence="7" value="23"/>
+            </data>
+        </var>
+    </location>
+</report>

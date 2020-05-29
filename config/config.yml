@@ -1,0 +1,8 @@
+general:
+  permited_action:
+      today: 'Temperatura Máxima'
+      av_min: 'Temperatura Mínima'
+      av_max: 'Temperatura Máxima'
+  barcelona_cities = 102
+  affiliate_id = ''
+  base_url = 'http://api.tiempo.com/index.php?api_lang=es'

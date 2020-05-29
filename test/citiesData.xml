@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report>
+    <location city="Listado de localidades - Provincia de Barcelona" num="627" level="3" level_name="Localidad">
+        <data>
+            <name id="1200">Barcelona</name>
+            <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=1200</url>
+        </data>
+        <data>
+            <name id="1197">Bagà</name>
+            <url>http://api.tiempo.com/index.php?api_lang=es&amp;localidad=1197</url>
+        </data>
+    </location>
+</report>
